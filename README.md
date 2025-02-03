@@ -1,7 +1,11 @@
+https://github.com/daminigarg07/GlowN-Go/blob/main/Designer.png
+
 # GlowN'Go 💄✨
 
 Welcome to **GlowN'Go**—your ultimate beauty tech playground! 🎨💋 This AI-powered project lets you test-drive different makeup styles before committing to them. Say goodbye to in-store swatches and hello to **instant virtual glam!**
-https://your-image-url.com/contributors-image.jpg
+
+https://github.com/daminigarg07/GlowN-Go/blob/main/interface.png
+
 ## 🚀 What’s Inside?
 
 💡 **AI-Powered Virtual Makeup:** Using **OpenCV** & **MediaPipe**, we detect facial landmarks in real time for precise makeup application.  
