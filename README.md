@@ -1,10 +1,10 @@
-https://github.com/daminigarg07/GlowN-Go/blob/main/Designer.png
+![logo](https://github.com/daminigarg07/GlowN-Go/blob/main/Designer.png)
 
 # GlowN'Go 💄✨
 
 Welcome to **GlowN'Go**—your ultimate beauty tech playground! 🎨💋 This AI-powered project lets you test-drive different makeup styles before committing to them. Say goodbye to in-store swatches and hello to **instant virtual glam!**
 
-https://github.com/daminigarg07/GlowN-Go/blob/main/interface.png
+![interface](https://github.com/daminigarg07/GlowN-Go/blob/main/interface.png)
 
 ## 🚀 What’s Inside?
 
