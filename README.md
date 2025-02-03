@@ -59,6 +59,6 @@ streamlit run app.py
 
 - [Damini Garg](https://github.com/daminigarg07)  
 - [Muskan Agarwal](https://github.com/your-github-profile)  
-- [Vidhi Jain](https://github.com/your-github-profile)  
+- [Vidhi Jain](https://github.com/jainvidhuu21)  
 
 
