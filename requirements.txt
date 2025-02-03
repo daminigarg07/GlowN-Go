@@ -1,0 +1,11 @@
+CMake
+streamlit
+opencv-python-headless
+mediapipe
+numpy
+scikit-image
+Pillow
+dlib==19.24.1
+matplotlib
+tensorflow
+
